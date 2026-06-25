@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a [Inventory Management System](https://github.com/feifei1002/jf-inventory-management) for [J&F Industries International Co., Ltd](https://www.jfrack.com).
+- 🔭 I’m currently working on a [Smart Financial Budgeting App](https://github.com/feifei1002/smart-finance-app).
 - 🌱 I’m currently studying for **Professional Cloud DevOps Engineer Certification** from Google.
 - 💼 I’m currently looking for a **Graduate/Junior Software Engineer** or **Product Engineer** role.
 - ⏳️ I take on side gigs. Feel free to contact me.
